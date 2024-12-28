@@ -1,0 +1,5 @@
+C:\Users\ATIBA SIDDIQ\Desktop\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\SBM Quiz App\obj\Debug\net5.0\SBM Quiz App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATIBA SIDDIQ\Desktop\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\SBM Quiz App\obj\Debug\net5.0\SBM Quiz App.AssemblyInfoInputs.cache
+C:\Users\ATIBA SIDDIQ\Desktop\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\SBM Quiz App\obj\Debug\net5.0\SBM Quiz App.AssemblyInfo.cs
+C:\Users\ATIBA SIDDIQ\Desktop\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\SBM Quiz App\obj\Debug\net5.0\SBM Quiz App.csproj.CoreCompileInputs.cache
+C:\Users\ATIBA SIDDIQ\Desktop\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\SBM Quiz App\obj\Debug\net5.0\SBM Quiz App.sourcelink.json
